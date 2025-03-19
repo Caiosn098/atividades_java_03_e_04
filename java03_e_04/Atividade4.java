@@ -24,7 +24,7 @@ public class Atividade4 {
 		
 		resul = (n1*n2)-(n3*n4);
 		
-		System.out.printf("\nA diferença é: = %.1f", resul);
+		System.out.printf("\nA diferença é: %.1f", resul);
 
 	}
 
